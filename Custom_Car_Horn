@@ -1,0 +1,20 @@
+requires:
+  weather resistant loud speaker
+  microcontroller
+  button panel
+  power regulation
+  DAC MAX98357A
+  case
+  sdcard slot
+  lcd
+  
+  
+Goal:
+  Load an SD card with WAV files then using the buttons select the specific sound to play and have it play on the loud speaker. 
+  
+features:
+  Unlimited # of possibles sounds
+  set favorites to buttons
+  external button input
+  volume control
+  
