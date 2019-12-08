@@ -1,0 +1,8 @@
+parts:
+  barcode scanner
+  serial label printer
+ 
+ 
+Goal:
+  inventory management suite that reads and creates barcodes for each item, allows simple checkin/checkout by workers via barcode scanner. communicates with scanner and printer directly.
+  
