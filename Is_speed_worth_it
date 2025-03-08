@@ -1,0 +1,4 @@
+Use opens street maps data to calculate the expected arrival time of a route based on speed-limits and avaliable traffic data
+give updated estimates of arrival time based on target average speed (can be higher for sooner arrival or lower for better fuel economy)
+reccomend routes based on lower target average speed (useful for older or ohv that struggle to maintain current speed limits)
+Motorcycle mode to avoid heavy traffic or long, straight streaches.
